@@ -1,0 +1,8 @@
+# Environment variables
+.env
+
+# Backend Dockerfile
+/backend/Dockerfile
+
+# Docker Compose
+/compose.yaml
