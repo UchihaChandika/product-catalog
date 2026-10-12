@@ -4,5 +4,8 @@
 # Backend Dockerfile
 /backend/Dockerfile
 
+# FE Dockerfile
+/frontend/Dockerfile
+
 # Docker Compose
 /compose.yaml
